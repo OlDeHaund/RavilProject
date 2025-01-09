@@ -10,4 +10,6 @@ git config --global user.name "name"
 git config --global user.email "email"
 
 Для чего нужен файл id_rsa?
+Это личный ключ для аутентификации по протоколу SSH. Он нужен, чтобы безопасно работать с удаленными репозиториями.
+
 Глеб?
