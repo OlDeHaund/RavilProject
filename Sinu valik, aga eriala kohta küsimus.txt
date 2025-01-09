@@ -8,3 +8,6 @@ ext4 - файловая система, которая используется 
 
 Küsimus 3.Agapov 2 (здоровья ему):
 Как создать нового пользователя в Linux?
+
+sudo useradd -m nimi
+sudo passwd nimi
