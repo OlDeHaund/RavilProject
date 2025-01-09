@@ -4,5 +4,10 @@ git commit -a -m "muudatus"
 git push
 
 Что нужно сделать в GIT cmd, чтобы делать изменения от своего имени?
+Нужно установить имя и почту пользователя:
+
+git config --global user.name "name"
+git config --global user.email "email"
+
 Для чего нужен файл id_rsa?
 Глеб?
