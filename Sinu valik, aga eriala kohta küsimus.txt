@@ -1,0 +1,9 @@
+Küsimus 1. Excel funktsioonid:
+Lahtris B3 on antud isikukood. Mis valemiga saab leida isiku sünnikuu?
+=MID(B3;4;2)
+
+Küsimus 2. Agapov:
+Что такое ext4 и где он используется?
+
+Küsimus 3.Agapov 2 (здоровья ему):
+Как создать нового пользователя в Linux?
